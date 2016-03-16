@@ -12,6 +12,9 @@ namespace tests
     //тестовое изменение
     public partial class Form1 : Form
     {
+        /// <summary>
+        /// тестовое изменение 2
+        /// </summary>
         public Form1()
         {
             InitializeComponent();
